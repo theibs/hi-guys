@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            csgodouble.com - automated
 // @description     An userscript that automates csgodouble.com betting using martingale system.
-// @namespace       automated@mole
+// @namespace       automated@skullripper100
 // @version         1.30
 // @author          Mole
 // @match           http://www.csgodouble.com/
@@ -103,7 +103,7 @@ function Automated() {
     menu.innerHTML = '' +
         '<div class="row">' +
             '<div class="col-lg-9">' +
-                '<h2>CSGODouble.com Automated <small>by Mole (76561198138006602)</small> <i id="automated-theme-switch" class="fa fa-lightbulb-o" style="cursor: pointer;"></i></h2>' +
+                '<h2>CSGODouble.com Automated <small>by skullripper100 (76561198138006602)</small> <i id="automated-theme-switch" class="fa fa-lightbulb-o" style="cursor: pointer;"></i></h2>' +
                 '<div class="form-group">' +
                     '<div class="btn-group">' +
                         '<button type="button" class="btn btn-success" id="automated-start" disabled>Start</button>' +
