@@ -3,7 +3,7 @@
 // @description     An userscript that automates csgodouble.com betting using martingale system.
 // @namespace       automated@skullripper100
 // @version         1.30
-// @author          Mole
+// @author          skullripper100
 // @match           http://www.csgodouble.com/
 // @match           http://www.csgodouble.com/index.php
 // @run-at          document-end
