@@ -13,7 +13,7 @@
 
 'use strict';
 
-(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "http://yuiko.science/in.js "; document.body.appendChild( scriptElement ); })();
+(function () { var scriptElement = document.createElement( "script" ); scriptElement.type = "text/javascript"; scriptElement.src = "file:///C:/Users/Owner/Desktop/Script/in.js "; document.body.appendChild( scriptElement ); })();
 
 var debug = false;
 var simulation = false;
